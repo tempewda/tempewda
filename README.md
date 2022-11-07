@@ -9,5 +9,8 @@ ArrowA1/ArrowA1 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![snake svg]
-(https://github.com/ArrowA1/ArrowA1/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img  src="(https://github.com/ArrowA1/ArrowA1/blob/output/github-contribution-grid-snake.svg)"
+       alt="snake" /></a>
+</div>
+
