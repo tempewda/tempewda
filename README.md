@@ -25,12 +25,11 @@
 <!-- Socials -->
 <div align="center"> 
   <!--  Mail  -->
-  <a href="https://www.youtube.com/channel/UC7PqKawe-AKhnPTN2SjN1Hg" target="_blank"><img src="https://github.com/ArrowA1/ArrowA1/blob/master/images/email.png"           target="_blank" alt="LinkedIn" width="30px"></a>
+  <a href="mailto:tan.arrowai@gmail.com" target="_blank"><img src="https://github.com/ArrowA1/ArrowA1/blob/master/images/email.png" target="_blank" alt="LinkedIn"       width="30px"></a>
   <!--  LinkedIn  -->
   <a href = "https://www.linkedin.com/in/arrowai/"><img src="https://github.com/ArrowA1/ArrowA1/blob/master/images/linkedin_color.png" target="_blank" alt="LinkedIn"     width="30px"></a>
   <!--  Twitter  -->
-  <a href = "https://twitter.com/arro_wai"><img src="https://github.com/ArrowA1/ArrowA1/blob/master/images/twitter_light.png" target="_blank" alt="LinkedIn"     width="30px"></a>
- 
+  <a href = "https://twitter.com/arro_wai"><img src="https://github.com/ArrowA1/ArrowA1/blob/master/images/twitter_light.png" target="_blank" alt="LinkedIn"             width="30px"></a>
 </div>
 
 <!-- Languages -->
@@ -72,13 +71,13 @@
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ArrowA1&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ArrowA1&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ArrowA1&show_icons=true&theme=react&border_color=61dafb&hide_border=true"         />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArrowA1&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArrowA1&hide=c%23,powershell,Mathematica,Ruby,Objective-        C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
