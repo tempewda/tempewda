@@ -62,7 +62,7 @@
 
   <hr>
 
-<!-- Stats -->
+<!-- Stats 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
@@ -84,6 +84,6 @@
   <br>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=ArrowA1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+</p> -->
 
 <hr>
