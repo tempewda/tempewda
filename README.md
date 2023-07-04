@@ -53,9 +53,11 @@
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>
-  <img alt="snake eating my contribution" src="https://github.com/ArrowA1/ArrowA1/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
-  <img alt="snake eating my contribution" src="https://github.com/ArrowA1/ArrowA1/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only">
-  <br>
-  <br>
-  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tempewda/tempewda/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tempewda/tempewda/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tempewda/tempewda/output/github-contribution-grid-snake.svg">
+  </picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 </div>
